@@ -5,7 +5,10 @@ body{
 	background-color: #F2FFD6;
 }
 
-
+.col{
+	
+	margin-bottom: 3px;
+}
 .card {
 	height: 100%;
 }
@@ -14,23 +17,26 @@ body{
 	
 	font-weight:bold; 
 	text-align: center;
-	color: #CE0018;
+	color: #C8009C;
+	
 	
 }
 .card-text{
-	font-weight:bold; 
+	
 	text-align: center;
 	color: #1900B5;
 }
 
 .card-footer{
 	
-	background-color: #6100B9
+	background-color: #8CCE00;
+	position: relative;
 }
 
 span{
 	font-weight:bold;
-	color: #FFB300; 
+	color: #FB000D; 
+	font-size: 14.4px
 }
 
 .navbar{
@@ -47,5 +53,4 @@ span{
 	height: auto; 
 	
 }
-
 
