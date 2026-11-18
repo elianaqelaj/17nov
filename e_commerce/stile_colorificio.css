@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+
+body{
+	background-color: #F2FFD6;
+}
+
+
+.card {
+	height: 100%;
+}
+
+.card-title{
+	
+	font-weight:bold; 
+	text-align: center;
+	color: #CE0018;
+	
+}
+.card-text{
+	font-weight:bold; 
+	text-align: center;
+	color: #1900B5;
+}
+
+.card-footer{
+	
+	background-color: #6100B9
+}
+
+span{
+	font-weight:bold;
+	color: #FFB300; 
+}
+
+.navbar{
+	background-color:#8CCE00;
+	font-weight:bold;
+	margin: 0px auto;
+	padding: 16px; 
+}
+
+.navbar img{
+	
+	margin-left:10px;
+	width:200px;
+	height: auto; 
+	
+}
+
+
