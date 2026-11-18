@@ -3,6 +3,7 @@
 
 body{
 	background-color: #F2FFD6;
+	font-family: sans-serif;
 }
 
 .col{
@@ -35,7 +36,7 @@ body{
 
 span{
 	font-weight:bold;
-	color: #FB000D; 
+	color: #FFF200; 
 	font-size: 14.4px
 }
 
